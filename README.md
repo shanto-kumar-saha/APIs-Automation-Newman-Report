@@ -6,7 +6,7 @@
 
 <h2>📝 Description</h2> 
 
-API Automation Testing is a crucial software testing approach that validates the functionality and reliability of APIs. This Project contain "Booking APIs" where I worked on "Get, Post, Put, Path, Delete" APIs of Booking System by using Postman tool and generate "Newman Report" </p>
+API Automation Testing is a crucial software testing approach that validates the functionality and reliability of APIs. This Project contain "Booking APIs" where I worked on "Get, Post, Put, Path, Delete" APIs of Booking System by using Postman tool and generate "Newman HTML Report" </p>
 
 <h2>📸 Project Screenshots</h2>
 
